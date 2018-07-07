@@ -1,2 +1,2 @@
 # machine-learning
-CRF, SVM, HMM, N-gram
+CRF, SVM, HMM, N-gram, Random-forest
